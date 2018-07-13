@@ -65,7 +65,7 @@ def show():
     print('Temperature max:{} '.format(temp_max))
     print('Temperature min:{} '.format(temp_min))
     print('Humidity:{}'.format(humidity))
-    print('Name :{}'.format(name))s
+    print('Name :{}'.format(name))
 
     current_date = datetime.date.today()
     print(current_date)
